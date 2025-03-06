@@ -1,0 +1,14 @@
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.AssemblyInfoInputs.cache
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.AssemblyInfo.cs
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.csproj.CoreCompileInputs.cache
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\bin\Debug\net8.0\LabAssignments.exe
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\bin\Debug\net8.0\LabAssignments.deps.json
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\bin\Debug\net8.0\LabAssignments.runtimeconfig.json
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\bin\Debug\net8.0\LabAssignments.dll
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\bin\Debug\net8.0\LabAssignments.pdb
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.dll
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\refint\LabAssignments.dll
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.pdb
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\LabAssignments.genruntimeconfig.cache
+C:\Practice\MyConsoleApp\MyConsoleApp\LabAssignments\obj\Debug\net8.0\ref\LabAssignments.dll
